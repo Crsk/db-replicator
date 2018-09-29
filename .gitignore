@@ -1,1 +1,4 @@
-credentials.py
+config.py
+config.pyc
+__pycache__/*
+launch.json
